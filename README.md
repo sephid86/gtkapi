@@ -5,6 +5,6 @@ GTK API 프로그래밍 Study
 
 http://k-lint.net
 
-This is for learn GTK.
+This i0s for learn GTK.
 
-This is for koreans.
+This is for Koreans.
