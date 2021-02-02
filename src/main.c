@@ -11,7 +11,7 @@ void main() {
 
   g_signal_connect(Window1, "destroy", G_CALLBACK(gtk_main_quit), NULL);
 
-  gtk_widget_show_all(Window);
+  gtk_widget_show_all(Window1);
   gtk_main();
 
 }
